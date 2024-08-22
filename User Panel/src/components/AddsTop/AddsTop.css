@@ -1,0 +1,37 @@
+.carousel-item img {
+    border-radius: 20px;
+}
+
+.carousel-control-prev .visually-hidden,
+.carousel-control-next .visually-hidden {
+    display: none;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-color: #0C5273;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+}
+
+.carousel-indicators {
+    bottom: -22px;
+}
+
+.carousel-indicators button {
+    background-color: #0C5273;
+    padding: 3px 16px;
+    margin: 0px 5px;
+    border-radius: 10px;
+    border: none;
+}
+
+.carousel-indicators button {
+    opacity: 0.2;
+}
+
+.of-img img{
+    width: 100%;
+    border-radius: 20px;
+}

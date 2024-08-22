@@ -1,0 +1,56 @@
+.pr-ct h1 {
+    font-size: 24px;
+    color: #141414;
+    font-weight: 800;
+}
+
+.pr-img img {
+    width: 100%;
+    border-radius: 24px;
+}
+
+.pr-btn{
+    background-color: transparent;
+    border: none;
+}
+
+.pr-btn button{
+    background-color: transparent;
+    border: none;
+}
+
+.pr-btn button img {
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+    background-size: cover;
+}
+
+.pr-btn button h4 {
+    font-size: 14px;
+    color: #141414;
+    font-weight: 600;
+    height: 30px;
+    overflow: hidden;
+}
+
+.pr-btn button h3 {
+    font-size: 14px;
+    color: #141414;
+    font-weight: 800;
+}
+
+.pr-btn button button {
+    width: 100%;
+    border: 1px solid black;
+    border-radius: 24px;
+    font-weight: 800;
+    color: #0C5273;
+    background-color: transparent;
+    padding: 7px 16px;
+}
+
+.slick-prev:before,
+.slick-next:before {
+    color: #0C5273;
+}

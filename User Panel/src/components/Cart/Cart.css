@@ -1,0 +1,106 @@
+.cr-h2 h2 {
+    font-size: 24px;
+    color: #141414;
+    font-weight: 800;
+}
+
+.cart-box {
+    background-color: #ffffff;
+    border: 1px solid rgba(0, 0, 0, .125);
+    border-radius: 24px;
+}
+
+.cart-box h3,
+.ct-box h3,
+.ad-box h3 {
+    font-size: 16px;
+    color: #141414;
+    font-weight: 800;
+}
+
+.cart-box h4 {
+    font-size: 14px;
+    color: #000000A6;
+    font-weight: 600;
+}
+
+.cart-box .sp2 {
+    font-size: 12px;
+    color: #000000A6;
+    font-weight: 600;
+}
+
+.cart-box h5 {
+    font-size: 12px;
+    color: #141414;
+    font-weight: 600;
+}
+
+.cart-box .sp,
+.ct-box .sp,
+.ad-box label {
+    font-size: 16px;
+    color: #000000A6;
+    font-weight: 600;
+}
+
+.cart-box button {
+    border: 1px solid rgba(0, 0, 0, .125);
+    background-color: transparent;
+    font-size: 16px;
+    color: #0C5273;
+    font-weight: 500;
+    border-radius: 50%;
+    padding: 5px 12px;
+}
+
+.nav-tabs .active {
+    background-color: #00b259 !important;
+    color: #ffffff !important;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.nav-tabs {
+    border: none;
+    background-color: #E5F7EE;
+    padding: 12px;
+    border-radius: 24px;
+    text-align: center;
+}
+
+.nav-tabs button {
+    margin: 0px 8px;
+    background-color: transparent;
+    color: #141414;
+    font-weight: 600;
+}
+
+.ct-box,
+.ad-box {
+    background-color: #ffffff;
+    border: 1px solid rgba(0, 0, 0, .125);
+    border-radius: 24px;
+}
+
+.ct-box h4 {
+    font-size: 16px;
+    color: #000000A6;
+    font-weight: 600;
+    border-bottom: 1px solid rgba(0, 0, 0, .125);
+}
+
+.chek-btn {
+    background-color: #0078AD;
+    border: none;
+    border-radius: 24px;
+    font-size: 16px;
+    color: #ffffff;
+    font-weight: 700;
+    padding: 12px;
+    width: 100%;
+}
+
+.chek-btn:hover {
+    background-color: #0C5273;
+}

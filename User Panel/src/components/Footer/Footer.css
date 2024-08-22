@@ -1,0 +1,54 @@
+.footer {
+    background-color: #f5f5f5;
+}
+
+.ft-h4 h4 {
+    font-size: 16px;
+    color: #141414;
+    font-weight: 800;
+    line-height: 44px;
+}
+
+.ft-a a {
+    font-size: 16px;
+    color: #000000a6;
+    font-weight: 550;
+    text-decoration: none;
+}
+
+.ft-a {
+    margin-bottom: 18px;
+}
+
+.ft-a:hover {
+    background-color: #e0e0e0;
+}
+
+.ft-h3 h3 {
+    font-size: 24px;
+    color: #141414;
+    font-weight: 800;
+    line-height: 44px;
+}
+
+.ft-p p {
+    font-size: 14px;
+    color: #000000A6;
+    font-weight: 550;
+    margin-bottom: 0px;
+}
+
+.ft-img img {
+    width: 45%;
+}
+
+.border {
+    background-color: #f5f5f5;
+}
+
+.ft-h5 h5 {
+    font-size: 12px;
+    font-weight: 550;
+    color: #000000A6;
+    margin-bottom: 0px;
+}

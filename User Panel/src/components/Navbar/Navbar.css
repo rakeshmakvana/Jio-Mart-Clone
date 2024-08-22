@@ -1,0 +1,22 @@
+.navbars {
+    background-color: #0C5273;
+    position: sticky;
+    top: 78px;
+    left: 0;
+    z-index: 98;
+}
+
+.nav-item a {
+    font-size: 15px;
+    color: #ffffff;
+    font-weight: 600;
+    padding: 12px 15px;
+}
+
+.nav-item a:hover {
+    border-bottom: 4px solid #0078AD;
+}
+
+.dropdown-toggle::after {
+    display: none;
+}

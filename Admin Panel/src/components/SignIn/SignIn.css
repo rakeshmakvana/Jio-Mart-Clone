@@ -1,0 +1,80 @@
+.signin-box {
+    background-color: #ffffff;
+    border-radius: 24px;
+    box-shadow: 0 4px 16px 0 #00000029;
+    width: 400px;
+    height: 550px;
+}
+
+.si-h h2 {
+    font-size: 24px;
+    color: #141414;
+    font-weight: 800;
+}
+
+.si-h h4 {
+    font-size: 16px;
+    color: #000000A6;
+    font-weight: 550;
+    line-height: 24px;
+}
+
+.si-h h4 span {
+    font-size: 18px;
+    color: #141414;
+    font-weight: 600;
+}
+
+.si-btn input {
+    border: 1px solid #000000A6;
+    color: black !important;
+}
+
+.si-btn label {
+    font-size: 18px;
+    color: #141414;
+    font-weight: 550;
+}
+
+.si-btn button {
+    background-color: #0F3CC9;
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 12px 30px;
+    width: 100%;
+    border: none;
+    border-radius: 30px;
+}
+
+.si-btn button:hover {
+    opacity: 0.9;
+}
+
+.si-a {
+    font-size: 14px;
+    color: #000000A6;
+    font-weight: 550;
+}
+
+.si-a a {
+    font-size: 14px;
+    color: #0F3CC9 !important;
+    font-weight: 600;
+}
+
+.sg-btn .span2 {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.alert {
+    position: absolute;
+    padding: .75rem 1.25rem;
+    top: 2%;
+    left: 42%;
+    z-index: 99;
+    margin-bottom: 1rem;
+    border: 1px solid transparent;
+    border-radius: .25rem;
+}
